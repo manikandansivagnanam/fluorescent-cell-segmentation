@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+tqdm
+pillow
+scipy
+albumentations==1.4.7
+segmentation-models-pytorch
+timm
+jupyter
